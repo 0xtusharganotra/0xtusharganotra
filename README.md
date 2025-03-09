@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Tushar Ganotra and I'm a Full Stack Web and Smart contract (Solidity) developer</p>
+<p align="left">My name is Tushar and I'm a Full Stack Web and Smart contract (Solidity) developer</p>
 
 ###
 
