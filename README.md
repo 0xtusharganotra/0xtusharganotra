@@ -16,7 +16,7 @@ while(dev.isCoding())
 ```
 ###
 
-<p align="left">Hi, I'm Tushar — a Full Stack and Smart Contract Developer who enjoys building cool stuff, breaking it, and then fixing it (usually with coffee). I like struggling while solving real-world problems and pretending it's all part of the plan.</p>
+<p align="left">Hi, I'm Tushar — a Full Stack Web and Smart Contract Developer who enjoys building cool stuff, breaking it, and then fixing it (usually with coffee). I like struggling while solving real-world problems and pretending it's all part of the plan.</p>
 
 ###
 
