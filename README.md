@@ -1,9 +1,23 @@
-[![Banner](https://media.licdn.com/dms/image/v2/D5616AQHAHDIM4brbEA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733142084045?e=1752105600&v=beta&t=xjrLmG5A2KtJe5aV4nnH56A6ZguXjd8Ki6iCJtX6kvU)]
+![Banner](https://media.licdn.com/dms/image/v2/D5616AQHAHDIM4brbEA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733142084045?e=1752105600&v=beta&t=xjrLmG5A2KtJe5aV4nnH56A6ZguXjd8Ki6iCJtX6kvU)
 
 ###
 
 <p align="left">My name is Tushar and I'm a Full Stack Web and Smart contract (Solidity) developer</p>
 
+###
+
+```js
+const name = 'Ayush';
+
+Developer dev = new Developer(name);
+
+while(dev.isCoding())
+{
+  dev.listenToMusic();
+  dev.openStackOverFlow();
+  dev.drinkWater();
+}
+```
 ###
 
 <h2 align="left">Tech Stack</h2>
