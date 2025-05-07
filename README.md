@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">My name is Tushar and I'm a Full Stack Web and Smart contract (Solidity) developer</p>
-
-###
-
 ```js
 const name = 'Tushar';
 
@@ -18,6 +14,10 @@ while(dev.isCoding())
   dev.drinkWater();
 }
 ```
+###
+
+<p align="left">Hi, I'm Tushar — a Full Stack and Smart Contract Developer who enjoys building cool stuff, breaking it, and then fixing it (usually with coffee). I like struggling while solving real-world problems and pretending it's all part of the plan.</p>
+
 ###
 
 <h2 align="left">Tech Stack</h2>
@@ -43,24 +43,22 @@ while(dev.isCoding())
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
-
-  ###
-
-  <h3>Contact Me!</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayush-baliyan">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Ayush-Baliyan-19">
-    <img src="https://img.shields.io/badge/Github-white?logo=github&logoColor=black&style=for-the-badge" alt="GitHub" />
-  </a>
-  <a href="https://www.instagram.com/ayush__baliyan">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/solidity/363636" height="40" alt="solidity logo"  />
 </div>
+
+<hr>
+<h3>Contact Me!</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/tusharganotra/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://ganotra.vox@gmail.com">
+    <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
 
 
