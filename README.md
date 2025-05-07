@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋</h1>
+[![Banner](https://media.licdn.com/dms/image/v2/D5616AQHAHDIM4brbEA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733142084045?e=1752105600&v=beta&t=xjrLmG5A2KtJe5aV4nnH56A6ZguXjd8Ki6iCJtX6kvU)]
 
 ###
 
