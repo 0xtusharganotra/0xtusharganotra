@@ -7,14 +7,14 @@
 ###
 
 ```js
-const name = 'Ayush';
+const name = 'Tushar';
 
 Developer dev = new Developer(name);
 
 while(dev.isCoding())
 {
   dev.listenToMusic();
-  dev.openStackOverFlow();
+  dev.struggleToFindBug();
   dev.drinkWater();
 }
 ```
@@ -43,6 +43,21 @@ while(dev.isCoding())
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
+
+  ###
+
+  <h3>Contact Me!</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayush-baliyan">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Ayush-Baliyan-19">
+    <img src="https://img.shields.io/badge/Github-white?logo=github&logoColor=black&style=for-the-badge" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/ayush__baliyan">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/solidity/363636" height="40" alt="solidity logo"  />
