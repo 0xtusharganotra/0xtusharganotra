@@ -1,4 +1,4 @@
-###![Black and Yellow Web Developer LinkedIn Banner](https://github.com/user-attachments/assets/3c83d499-232e-46b4-981e-6c91c4fe680d)
+![Black and Yellow Web Developer LinkedIn Banner](https://github.com/user-attachments/assets/3c83d499-232e-46b4-981e-6c91c4fe680d)
 
 ###
 
