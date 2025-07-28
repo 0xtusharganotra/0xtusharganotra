@@ -1,4 +1,4 @@
-![Banner](https://media.licdn.com/dms/image/v2/D5616AQHAHDIM4brbEA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733142084045?e=1757548800&v=beta&t=BTq_SnvVq94jZNbX0mc8crYwhRgDg7FY6x96WMU0Pfk)
+###![Black and Yellow Web Developer LinkedIn Banner](https://github.com/user-attachments/assets/3c83d499-232e-46b4-981e-6c91c4fe680d)
 
 ###
 
