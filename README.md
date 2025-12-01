@@ -20,7 +20,7 @@ while(dev.isCoding())
   <img align="right" width="400px"  src="https://github.com/user-attachments/assets/e5508d0b-c6ea-4540-ba02-3a4403922c47"/>
   <br/>
 <p align="left">Hi, I'm a Full Stack Web and Smart Contract Developer who enjoys building cool stuff, breaking it, and then fixing it.</p>
-<p align="left">I work mainly with <i>JavaScript, TypeScript, React, Node.js, and Rust</i>.  
+<p align="left">I work mainly with <i>JavaScript, TypeScript, React, Node.js, and C++</i>.  
 <P align="left">I’m passionate about <i>Web3, DeFi , AI</i> and I love experimenting with new tools and frameworks. </p>
 <br/>
 </div>
