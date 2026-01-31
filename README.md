@@ -17,13 +17,31 @@ while(dev.isCoding())
 ```
 ###
 <div>
-  <img align="right" width="400px"  src="https://github.com/user-attachments/assets/e5508d0b-c6ea-4540-ba02-3a4403922c47"/>
+  <img align="right" width="400px" src="https://github.com/user-attachments/assets/e5508d0b-c6ea-4540-ba02-3a4403922c47"/>
   <br/>
-<p align="left">Hi, I'm a Full Stack Web and Smart Contract Developer who enjoys building cool stuff, breaking it, and then fixing it.</p>
-<p align="left">I work mainly with <i>JavaScript, TypeScript, React, Node.js, and C++</i>.  
-<P align="left">I’m passionate about <i>Web3, DeFi , AI</i> and I love experimenting with new tools and frameworks. </p>
-<br/>
+
+  <p align="left">
+    Hi, I’m <b>Tushar</b> — a Software Engineer working on large-scale platform modernization,
+    AI-powered developer tooling, and CI/CD automation for enterprise systems.
+  </p>
+
+  <p align="left">
+    My core stack includes 
+    <i>Python, JavaScript, TypeScript, React, Node.js, C++, GitHub Actions, Jenkins, Azure</i>.
+  </p>
+
+  <p align="left">
+    I’m passionate about <i>AI-powered tooling, platform engineering, system modernization</i>,
+    and I still love experimenting with <i>Web3, DeFi, and emerging tech</i>.
+  </p>
+
+  <p align="left">
+    Always building, breaking, learning, and shipping 🚀
+  </p>
+
+  <br/>
 </div>
+
 
 ###
 
