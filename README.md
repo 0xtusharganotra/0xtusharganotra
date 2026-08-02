@@ -39,9 +39,9 @@ while (dev.isCoding()) {
   <p align="left">
     <b>Core Technologies</b><br/><br/>
 
-    • Python • TypeScript • Node.js • FastAPI • React <br/>
-    • AWS (Bedrock, Lambda, S3, EC2, IAM) <br/>
-    • PostgreSQL • PGVector • Redis • MongoDB <br/>
+    • Python • TypeScript • Node.js • FastAPI • React 
+    • AWS (Bedrock, Lambda, S3, EC2, IAM, Kinesis) 
+    • PostgreSQL • PGVector • Redis • MongoDB 
     • Docker • GitHub Actions • Jenkins • CI/CD
   </p>
 
