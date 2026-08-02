@@ -37,7 +37,7 @@ while (dev.isCoding()) {
   </p>
 
   <p align="left">
-    <b>Core Technologies</b><br/><br/>
+    <b>Core Technologies</b><br/>
 
     • Python • TypeScript • Node.js • FastAPI • React 
     • AWS (Bedrock, Lambda, S3, EC2, IAM, Kinesis) 
