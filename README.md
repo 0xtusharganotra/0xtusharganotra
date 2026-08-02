@@ -1,64 +1,74 @@
-
-![Black and Yellow Web Developer LinkedIn Banner](https://github.com/user-attachments/assets/734ea1d5-13b7-4cd1-ba1f-e93a75fd7dfa)
+![Backend & AI Engineer Banner](https://github.com/user-attachments/assets/734ea1d5-13b7-4cd1-ba1f-e93a75fd7dfa)
 
 ###
 
 ```js
-const name = 'Tushar';
+const name = "Tushar";
 
-Developer dev = new Developer(name);
+const dev = new Developer(name);
 
-while(dev.isCoding())
-{
+while (dev.isCoding()) {
   dev.listenToMusic();
-  dev.struggleToFindBug();
+  dev.debug();
   dev.drinkWater();
+  dev.learnSomethingNew();
 }
 ```
+
 ###
+
 <div>
   <img align="right" width="400px" src="https://github.com/user-attachments/assets/e5508d0b-c6ea-4540-ba02-3a4403922c47"/>
+
   <br/>
 
   <p align="left">
-    Hi, I’m <b>Tushar</b> — a Software Engineer working on large-scale platform modernization,
-    AI-powered developer tooling, and CI/CD automation for enterprise systems.
+    Hi, I'm <b>Tushar</b> 👋
   </p>
 
   <p align="left">
-    My core stack includes 
-    <i>Python, JavaScript, TypeScript, React, Node.js, C++, GitHub Actions, Jenkins, Azure</i>.
+    I'm a <b>Backend & AI Engineer</b> passionate about building production-grade AI systems,
+    scalable backend services, and cloud-native applications.
   </p>
 
   <p align="left">
-    I’m passionate about <i>AI-powered tooling, platform engineering, system modernization</i>,
-    and I still love experimenting with <i>Web3, DeFi, and emerging tech</i>.
+    My work focuses on <b>Retrieval-Augmented Generation (RAG)</b>, LLM-powered applications,
+    AI agents, modern backend architecture, and developer platforms running on AWS.
   </p>
 
   <p align="left">
-    Always building, breaking, learning, and shipping 🚀
+    <b>Core Technologies</b><br/><br/>
+
+    • Python • TypeScript • Node.js • FastAPI • React <br/>
+    • AWS (Bedrock, Lambda, S3, EC2, IAM) <br/>
+    • PostgreSQL • PGVector • Redis • MongoDB <br/>
+    • Docker • GitHub Actions • Jenkins • CI/CD
+  </p>
+
+  <p align="left">
+    Currently exploring Agentic AI, distributed systems, advanced retrieval techniques,
+    and scalable AI infrastructure.
+  </p>
+
+  <p align="left">
+    Always building, always learning, always shipping 🚀
   </p>
 
   <br/>
 </div>
 
-
 ###
 
-
 <hr>
-<h3>Contact Me!</h3>
-<br/>
+
+<h3 align="center">Connect with me</h3>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/tusharganotra/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
-  
-  <a href="https://ganotra.vox@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+
+  <a href="mailto:ganotra.vox@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-<br/>
-
-
-
